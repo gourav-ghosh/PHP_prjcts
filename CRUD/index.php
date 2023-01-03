@@ -1,6 +1,5 @@
  <!-- Connecting to the Database server   -->
 <?php
- // INSERT INTO `notes` (`S.No.`, `title`, `description`, `tstamp`) VALUES (NULL, 'Go to get some cakes', 'Go to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakesGo to get some cakes.\r\n', current_timestamp());
 $insert = false;
 $update = false;
 $delete = false;
